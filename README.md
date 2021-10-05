@@ -1,4 +1,4 @@
-# devtodo
+# DevToDo
 DevToDo is a simple project planner for prgrammers with a twist. 
 
 I built this web-app with Django for developers who want a simple way of documenting ideas. 
